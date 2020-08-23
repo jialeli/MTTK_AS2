@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="320" src="https://as2-image.oss-cn-beijing.aliyuncs.com/logo_horizontal.png">
+  <img width="320" src="https://as2-image.oss-cn-beijing.aliyuncs.com/logo_horizontal.png"> 
 </p>
 
 <p align="center">
